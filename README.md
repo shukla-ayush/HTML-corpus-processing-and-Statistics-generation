@@ -1,4 +1,4 @@
-# HTML-corpus-processing-and-Statistics-generation
+# HTML Corpus Statistics using inverted index
 
 Implementation has been done in Python 3.
 
